@@ -1,11 +1,11 @@
-Cape TownMarie Verryn
-Cape TownSusan Boyle
-DurbanJulie Smith
-DurbanJustin Bieber
-JohannesburgJohan Pieterse
-JohannesburgPatrick Buckley
-JohannesburgPeter Doe
-Port ElizabethErik Kruger
-Port ElizabethRuben Zwemstra
-Port ElizabethStefanus du Bruyn
-PretoriaGerhard Combrinck
+Cape Town, Marie Verryn
+Cape Town, Susan Boyle
+Durban, Julie Smith
+Durban, Justin Bieber
+Johannesburg, Johan Pieterse
+Johannesburg, Patrick Buckley
+Johannesburg, Peter Doe
+Port Elizabeth, Erik Kruger
+Port Elizabeth, Ruben Zwemstra
+Port Elizabeth, Stefanus du Bruyn
+Pretoria, Gerhard Combrinck

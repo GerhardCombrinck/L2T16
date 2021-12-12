@@ -1,0 +1,21 @@
+Order number 14
+Customer:Johan Pieterse
+Email: johan@gmail.com
+Phone number: 0826578954
+Location: Johannesburg
+
+You have ordered the following from Panarottis in Johannesburg:
+
+1 x Bacon & Ham (R110.9)
+
+
+Special instructions: none
+
+Total: R110.9
+
+Spike Fentonis nearest to the restaurant and so he will be delivering your order to you at: 
+
+14 North Street
+Johannesburg
+
+If you need to contact the restaurant, their number is 0826578954
