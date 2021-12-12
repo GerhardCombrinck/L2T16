@@ -261,9 +261,9 @@ public class Interface {
 			    	//update the drivers load
 			    		thisOrder.getDriver().setLoads(thisOrder.getDriver().getLoads() + 1);
 			    		
-			    		//update the data\drivers.txt file
+			    		//update the data\driver-info.txt file
 			    		try{
-						    FileOutputStream fos = new FileOutputStream("data\\drivers.txt");
+						    FileOutputStream fos = new FileOutputStream("data\\driver-info.txt");
 						    ObjectOutputStream oos = new ObjectOutputStream(fos);
 						    oos.writeObject(drivers);
 						    oos.close();
@@ -273,10 +273,10 @@ public class Interface {
 						catch (IOException ioe){
 						    ioe.printStackTrace();
 						}
-			    		//update the drivers.txt file
+			    		//update the driver-info.txt file
 				    		try {
-				    			//new PrintWriter("drivers.txt").close(); //clear drivers.txt b
-				    			FileWriter write = new FileWriter("drivers.txt", false); 
+				    			//new PrintWriter("driver-info.txt").close(); //clear driver-info.txt b
+				    			FileWriter write = new FileWriter("driver-info.txt", false); 
 				    			PrintWriter printLine  = new PrintWriter(write);
 				    			for(int i = 0; i < drivers.size(); i++){
 				    				printLine.printf("%s" + "%n" , drivers.get(i).toString());
