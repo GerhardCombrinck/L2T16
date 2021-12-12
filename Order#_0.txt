@@ -1,0 +1,21 @@
+Order number 0
+Customer:Erik Kruger
+Email: erik@gmail.com
+Phone number: 0587585475
+Location: Port Elizabeth
+
+You have ordered the following from Romans Pizza in Port Elizabeth:
+
+1 x Triple Cheese (79.9)
+
+
+Special instructions: 
+
+Total: R79.9
+
+Ana Ortegais nearest to the restaurant and so he will be delivering your order to you at: 
+
+55 Seagull Ave
+Port Elizabeth
+
+If you need to contact the restaurant, their number is 0587585475

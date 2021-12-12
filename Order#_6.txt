@@ -1,0 +1,21 @@
+Order number 6
+Customer:Stefanus du Bruyn
+Email: stefanus@gmail.com
+Phone number: 0696698547
+Location: Port Elizabeth
+
+You have ordered the following from Pizza Perfect in Port Elizabeth:
+
+1 x Four Seasons (R103.007)
+
+
+Special instructions: 0
+
+Total: R103.01
+
+Ana Ortegais nearest to the restaurant and so he will be delivering your order to you at: 
+
+33 Main Road
+Port Elizabeth
+
+If you need to contact the restaurant, their number is 0696698547

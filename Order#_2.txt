@@ -1,0 +1,22 @@
+Order number 2
+Customer:Susan Boyle
+Email: susan@gmail.com
+Phone number: 07258565874
+Location: Cape Town
+
+You have ordered the following from Panarottis in Cape Town:
+
+2 x Spanish Twist - Hot or Not (139.9)
+3 x Regina (99.9)
+
+
+Special instructions: 
+
+Total: R579.5
+
+Miranda Metcalfeis nearest to the restaurant and so he will be delivering your order to you at: 
+
+487 Crecent Street
+Cape Town
+
+If you need to contact the restaurant, their number is 07258565874

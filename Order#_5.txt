@@ -1,0 +1,21 @@
+Order number 5
+Customer:Peter Doe
+Email: peter@gmail.com
+Phone number: 0584756365
+Location: Johannesburg
+
+You have ordered the following from Pizza Perfect in Johannesburg:
+
+1 x Vegetarian (R87.007)
+
+
+Special instructions: 
+
+Total: R87.01
+
+Spike Fentonis nearest to the restaurant and so he will be delivering your order to you at: 
+
+22 Roadhouse Lane
+Johannesburg
+
+If you need to contact the restaurant, their number is 0584756365

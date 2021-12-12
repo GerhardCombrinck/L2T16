@@ -1,0 +1,21 @@
+Order number 3
+Customer:Julie Smith
+Email: julie@gmail.com
+Phone number: 0898754254
+Location: Durban
+
+You have ordered the following from Panarottis in Durban:
+
+3 x Regina (R99.9)
+
+
+Special instructions: im being mugged, call 911
+
+Total: R299.7
+
+Eugene Santanais nearest to the restaurant and so he will be delivering your order to you at: 
+
+1584 Babela Ave
+Durban
+
+If you need to contact the restaurant, their number is 0965854875

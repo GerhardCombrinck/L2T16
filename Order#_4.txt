@@ -1,0 +1,22 @@
+Order number 4
+Customer:Justin Bieber
+Email: justin@gmail.com
+Phone number: 0965854875
+Location: Durban
+
+You have ordered the following from Panarottis in Durban:
+
+2 x Mediterranean (R122.9)
+1 x Margherita (R79.9)
+
+
+Special instructions: 
+
+Total: R325.7
+
+Eugene Santanais nearest to the restaurant and so he will be delivering your order to you at: 
+
+44 Boxer Ave
+Durban
+
+If you need to contact the restaurant, their number is 0965854875
